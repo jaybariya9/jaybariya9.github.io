@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Jay"
 title_right   : "Bariya" # default: ""
-description   : ""
+description   : "Personal Website"
 keywords      : ""
 url           : https://jaybariya9.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
