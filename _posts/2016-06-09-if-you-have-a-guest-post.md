@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "If you have a Guest post.."
+title: "Automating Diamond Stock with Web Scraping"
 comments: true
-description: "If you have a Guest post.."
+description: ""
 keywords: "dummy content"
-author: GuestName
+author: 
 ---
 
-If you think that you're going to have a guest post... take a look on this post sample. Just add `author: GuestName` to the YAML front matter. Then, the **GuestName** will be appear on the next of post date. Oh, the guest name will be automatically uppercase.
+As a business owner, I'd want to eliminate the boring stuff. As a diamond merchant, every week I need to update my inventory with newly certified stones. Each certification contains information regarding the graded diamond. Earlier, my partner had to do this by going to website, manually entering the all the information in spreadsheet. Productive work hours were lost. 
+
+I thought, let's automate this boring task and use web scraping to get the information and update the inventory automatically. With a little bit of web scraping with selenium, I figured it could be done. Now, let's get to the coding part. 
